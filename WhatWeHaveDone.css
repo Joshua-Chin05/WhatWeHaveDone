@@ -3,6 +3,7 @@ body {
     margin: 0;
     background: white;
     width: 100%;
+    font-size: 30px;
 }
 
 p { 
@@ -16,6 +17,7 @@ p {
     width:100%;
     height: fit-content;
     position: absolute;
+    font-size: 30px;
     display: flex;
 }
 
