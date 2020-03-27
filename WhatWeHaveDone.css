@@ -22,6 +22,7 @@ p {
 .bodyObject {
     width: 50%;
     height: 300px;
+    font-size: 30px;
     position: absolute;
 }
 
